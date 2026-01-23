@@ -1,0 +1,159 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-112681002-1",
+            "anonymizeIp": true
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "CgkI49KruZUUEAIQAQ",
+                    "name": "highscore"
+                },
+                {
+                    "id": "CgkI49KruZUUEAIQAA",
+                    "name": "highstage"
+                }
+            ], 
+            "achievements": [], 
+            "clound_save": false, 
+            "connect_on_start": false, 
+            "show_achievement_notification": false, 
+            "debug": false
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "kchp.knifehit_noads_single"
+                },
+                "free_continue": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_freecontinue"
+                },
+                "remove_ads_free_continue": {
+                    "type": "non_consumable",
+                    "id": "kchp.knife_noads"
+                },
+                "red_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_redpack"
+                },
+                "blue_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_bluepack"
+                },
+                "purple_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_purplepack"
+                },
+                "black_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_blackpack"
+                },
+                "future_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_futurepack"
+                },
+                "postapocalipsis_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_postapocalipsispack"
+                },
+                "ice_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_icepack"
+                },
+                "woodoo_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_woodoopack"
+                },
+                "subscription_triple_xp": {
+                    "type": "subs",
+                    "id": "kchp.knifehit_vip_subscription"
+                },
+                "extra_lives": {
+                    "id": "kchp.knifehit_extra_lives"
+                }
+            },
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg+HOt7L+9Xr2WKrzFGxpJFyowsWbIeDmV4YXYC4EtIebVRk6em/NQmpxB+NYWNEfKeIK+ixOLtn5jTnq0NStpz0lVfSsBxphxGypehvyovr/6wTy15vYGE6337Mu6Q7VDOOKfDn7pt8ZGkN/goR8SOdS56c8Cl303F7OHYaE0fP+QJcHEuR+M1uGrbpWhdww4TzXsRb2zYzhDdmvXRTZlojYHHa9YdcNUO4TvO3NhbYyvnyilI0wWnHoT90QsjJE9CUxgtMzd4Su3E4a/9FxqgSc5Uh0H5r8jLBu1nsgR3Injq+96O1xVQaDb86ZZ2vvsWTUwwzz0TfBnZBSAjOO8wIDAQAB"
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "track_init_screen": false, 
+            "trackingCode": "UA-112661152-1",
+            "anonymizeIp": true
+        }, 
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "kchp.knife_high",
+                    "name": "highscore"
+                },
+                {
+                    "id": "kchp.knife_stage",
+                    "name": "highstage"
+                }
+            ], 
+            "achievements": [], 
+            "connect_on_start": false, 
+            "show_achievement_notification": true, 
+            "debug": false
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "kchp.knifehit_noads_single"
+                },
+                "free_continue": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_freecontinue"
+                },
+                "remove_ads_free_continue": {
+                    "type": "non_consumable",
+                    "id": "kchp.knife_noads"
+                },
+                "red_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_redpack"
+                },
+                "blue_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_bluepack"
+                },
+                "purple_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_purplepack"
+                },
+                "black_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_blackpack"
+                },
+                "future_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_futurepack"
+                },
+                "postapocalipsis_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_postapocalipsispack"
+                },
+                "ice_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_icepack"
+                },
+                "woodoo_knife_pack": {
+                    "type": "non_consumable",
+                    "id": "kchp.knifehit_woodoopack"
+                },
+                "subscription_triple_xp": {
+                    "type": "subs",
+                    "id": "kchp.knifehit_vip_subscription"
+                },
+                "extra_lives": {
+                    "id": "kchp.knifehit_extra_lives"
+                }
+            }
+        }
+    }
+}

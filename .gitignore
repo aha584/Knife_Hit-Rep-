@@ -1,0 +1,7 @@
+﻿*.vsconfig
+KnifeHit(Rep)/Assembly-CSharp-firstpass.csproj
+*.sln
+KnifeHit(Rep)/UserSettings
+KnifeHit(Rep)/Temp
+KnifeHit(Rep)/Logs
+KnifeHit(Rep)/Library
