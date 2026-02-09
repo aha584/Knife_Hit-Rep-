@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: f17175eaa9d051b43b5665f843b73857
+guid: de2ff6c4444dcce44bb1d0aaf13f0a02
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3943768593373133265
-    second: customize_0
-  - first:
-      213: -8208506962015367246
-    second: customize_1
-  - first:
-      213: 1206026164760618656
-    second: customize_2
+      213: -3514620020343611971
+    second: Power-Ups_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -145,23 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customize_0
+      name: Power-Ups_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 16
-        width: 105
-        height: 90
+        x: 0
+        y: 0
+        width: 1080
+        height: 1920
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d9f85404a41bb630800000000000000
-      internalID: 3943768593373133265
+      spriteID: dbd51f676bf893fc0800000000000000
+      internalID: -3514620020343611971
       vertices: []
       indices: 
       edges: []
@@ -170,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 67c4ba3670ed1a8408e7fb98bbb606df
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -180,9 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customize_0: 3943768593373133265
-      customize_1: -8208506962015367246
-      customize_2: 1206026164760618656
+      Power-Ups_0: -3514620020343611971
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
