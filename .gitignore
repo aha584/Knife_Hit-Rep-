@@ -5,3 +5,6 @@ KnifeHit(Rep)/UserSettings
 KnifeHit(Rep)/Temp
 KnifeHit(Rep)/Logs
 KnifeHit(Rep)/Library
+*.csproj
+KnifeHit(Rep)/obj
+KnifeHit(Rep)/.vs
