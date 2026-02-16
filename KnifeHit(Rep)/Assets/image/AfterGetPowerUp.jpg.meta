@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 3c0340384e7b6ca4a89734edad134682
+guid: fd3354a46cd5540449279d147140a1c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4034679246700027463
-    second: upgrades_icon_0
-  - first:
-      213: -1185965347734822598
-    second: upgrades_icon_1
+      213: 1171603837714657208
+    second: AfterGetPowerUp_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,23 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: upgrades_icon_0
+      name: AfterGetPowerUp_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 54
-        height: 59
+        width: 1080
+        height: 1920
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74e1232f56f0ef730800000000000000
-      internalID: 4034679246700027463
+      spriteID: 8bf6774ab7f524010800000000000000
+      internalID: 1171603837714657208
       vertices: []
       indices: 
       edges: []
@@ -167,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0de044d06a49b6b489d419746c8e86e9
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -177,8 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      upgrades_icon_0: 4034679246700027463
-      upgrades_icon_1: -1185965347734822598
+      AfterGetPowerUp_0: 1171603837714657208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
