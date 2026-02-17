@@ -1,91 +1,10 @@
 fileFormatVersion: 2
-guid: 770dfb96b0c4c1e43b5b077132227de1
+guid: 31e3edaed91b29145882ffcad1256f73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1291463449793659003
-    second: frame_random_0
-  - first:
-      213: 5273398775863266562
-    second: frame_random_1
-  - first:
-      213: 5201095176248743791
-    second: frame_random_2
-  - first:
-      213: -7341379652011928453
-    second: frame_random_3
-  - first:
-      213: -8501514763830344233
-    second: frame_random_4
-  - first:
-      213: -6315081732748303224
-    second: frame_random_5
-  - first:
-      213: -7030569088580548838
-    second: frame_random_6
-  - first:
-      213: 3770110331021247349
-    second: frame_random_7
-  - first:
-      213: -5196198879700723189
-    second: frame_random_8
-  - first:
-      213: 4413591489079837133
-    second: frame_random_9
-  - first:
-      213: 6100735863101968671
-    second: frame_random_10
-  - first:
-      213: -8633652712840825630
-    second: frame_random_11
-  - first:
-      213: -5772064141151369647
-    second: frame_random_12
-  - first:
-      213: 2968986630965810812
-    second: frame_random_13
-  - first:
-      213: -1542315542658719257
-    second: frame_random_14
-  - first:
-      213: 7076681566610429193
-    second: frame_random_15
-  - first:
-      213: -8428811481662922124
-    second: frame_random_16
-  - first:
-      213: 9163915766325522483
-    second: frame_random_17
-  - first:
-      213: -4136899601961539324
-    second: frame_random_18
-  - first:
-      213: -5644807578705376168
-    second: frame_random_19
-  - first:
-      213: 9198999033168827992
-    second: frame_random_20
-  - first:
-      213: -2487205199774356806
-    second: frame_random_21
-  - first:
-      213: -2835438456349775075
-    second: frame_random_22
-  - first:
-      213: -867197579865554786
-    second: frame_random_23
-  - first:
-      213: 6981844842610316338
-    second: frame_random_24
-  - first:
-      213: 7865855463939658124
-    second: frame_random_25
-  - first:
-      213: -2579961457214448048
-    second: frame_random_26
-  - first:
-      213: 1283721689428364166
-    second: frame_random_27
+      213: 8265573948449436128
+    second: Inven6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -220,23 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: frame_random_0
+      name: Inven6_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 157
-        height: 100
+        width: 1080
+        height: 1920
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58ff5aab5dcc31ee0800000000000000
-      internalID: -1291463449793659003
+      spriteID: 0e13d0696b735b270800000000000000
+      internalID: 8265573948449436128
       vertices: []
       indices: 
       edges: []
@@ -245,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4e781fcbefcec6b458b43d9d62c47f40
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -255,34 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      frame_random_0: -1291463449793659003
-      frame_random_1: 5273398775863266562
-      frame_random_10: 6100735863101968671
-      frame_random_11: -8633652712840825630
-      frame_random_12: -5772064141151369647
-      frame_random_13: 2968986630965810812
-      frame_random_14: -1542315542658719257
-      frame_random_15: 7076681566610429193
-      frame_random_16: -8428811481662922124
-      frame_random_17: 9163915766325522483
-      frame_random_18: -4136899601961539324
-      frame_random_19: -5644807578705376168
-      frame_random_2: 5201095176248743791
-      frame_random_20: 9198999033168827992
-      frame_random_21: -2487205199774356806
-      frame_random_22: -2835438456349775075
-      frame_random_23: -867197579865554786
-      frame_random_24: 6981844842610316338
-      frame_random_25: 7865855463939658124
-      frame_random_26: -2579961457214448048
-      frame_random_27: 1283721689428364166
-      frame_random_3: -7341379652011928453
-      frame_random_4: -8501514763830344233
-      frame_random_5: -6315081732748303224
-      frame_random_6: -7030569088580548838
-      frame_random_7: 3770110331021247349
-      frame_random_8: -5196198879700723189
-      frame_random_9: 4413591489079837133
+      Inven6_0: 8265573948449436128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
