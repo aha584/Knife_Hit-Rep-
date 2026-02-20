@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb9bcbdea132cdc429c68d5d823e8b2e, type: 3}
+  m_Name: Block2
+  m_EditorClassIdentifier: Assembly-CSharp::BlockInven
+  knives:
+  - {fileID: 8655884864823355849, guid: a3bfbfc8b16fd3f43a432936972e60a1, type: 3}
+  - {fileID: 693657714643310373, guid: 71c48e9be309849478ade9e730c0bb35, type: 3}
+  - {fileID: -1621530935869313550, guid: 1625b32031dfc2c4fb9fdfd6a1563d97, type: 3}
+  - {fileID: 4913947258710708406, guid: 265804702e554e741a7d0667af224c8e, type: 3}
+  - {fileID: 7557831155883890904, guid: 2c3caf753a8dbb14e8bb86b587ed79ba, type: 3}
+  - {fileID: 5568918971465860070, guid: 7407e78b628c4354789e612b3c75c76e, type: 3}
+  - {fileID: 7632275421829170444, guid: 3652065ad03d13a4fb705db51f9432a1, type: 3}
+  - {fileID: -8750358254235268279, guid: 6c4e8f14ce31fc641a8670730ef8c29e, type: 3}
+  - {fileID: 75723432986380040, guid: 0e3069b94ef44eb458e91053721e125f, type: 3}
+  - {fileID: -4401780272141464138, guid: e63403fe5c963e44db4f8a3c1416d8b9, type: 3}
+  - {fileID: -5660508130040408958, guid: 453bd65094a6a0c4d9f536eae7292e83, type: 3}
+  - {fileID: -1733608800325866946, guid: 30a6939db3e86ec47981a9bd3fd03f33, type: 3}
+  - {fileID: 4264813213005836037, guid: d5cdee215333acf4daafce3c58909674, type: 3}
+  - {fileID: -6046647019358122158, guid: 2f138d65c2e862c43afe98ff5638ca10, type: 3}
+  - {fileID: -7242824892672758338, guid: 950565809b586ee4d90bda274482e1c5, type: 3}
+  - {fileID: -6388133745993707432, guid: e5f335594c6e4b749963bbd901afbe3b, type: 3}
+  knivesShadow:
+  - {fileID: -2046523128616799464, guid: 0263c12cfb0acbb4ea14aab95462a2e0, type: 3}
+  - {fileID: -7966908504143527291, guid: fda320092549806428a818e470cbe813, type: 3}
+  - {fileID: -8935946038548567798, guid: a50b8113fcff3ae48b3c1a179d475b6d, type: 3}
+  - {fileID: 1561353835988864677, guid: 2f6468d26a3cc9641bfebced0c190418, type: 3}
+  - {fileID: 3816307566458433924, guid: ff17c9616ee6caf438e899a7900293c0, type: 3}
+  - {fileID: -8002394249093794887, guid: 91809310b9fb6df4b9977b78bd2ed0f1, type: 3}
+  - {fileID: 7240360488317808720, guid: 4676a73f24bf1ee4fa062bc8764302a7, type: 3}
+  - {fileID: -6774333653206656334, guid: bcbd347ad93f6814688f0fadc4696322, type: 3}
+  - {fileID: -6861062198369882673, guid: 8db85e5dc9e48d64488a3e371a91ac4f, type: 3}
+  - {fileID: 3355408605781392309, guid: 144327087e86ac94e854f758c1042a1e, type: 3}
+  - {fileID: -2585660438768207264, guid: 3c03364c0985aef4e951ea12108872d0, type: 3}
+  - {fileID: 7366447316944575233, guid: 2c250791b8611844793c47a45de7f9c2, type: 3}
+  - {fileID: 9038825166659991750, guid: d1f5805f94db219459ab8bdf8f1354ec, type: 3}
+  - {fileID: -6871690505583482799, guid: f0da0e37c4fdfd44c9c8487329deee7e, type: 3}
+  - {fileID: -3588132375668722234, guid: 1741f065bca364d42b7f2f153ffc22b2, type: 3}
+  - {fileID: 5054751797264835793, guid: 0d26bacb8584da449828a452ede01a1a, type: 3}
+  knivesAndTheirState:
+    _serializedList:
+    - Key: {fileID: 8655884864823355849, guid: a3bfbfc8b16fd3f43a432936972e60a1, type: 3}
+      Value: 0
+    - Key: {fileID: 693657714643310373, guid: 71c48e9be309849478ade9e730c0bb35, type: 3}
+      Value: 0
+    - Key: {fileID: -1621530935869313550, guid: 1625b32031dfc2c4fb9fdfd6a1563d97, type: 3}
+      Value: 0
+    - Key: {fileID: 4913947258710708406, guid: 265804702e554e741a7d0667af224c8e, type: 3}
+      Value: 0
+    - Key: {fileID: 7557831155883890904, guid: 2c3caf753a8dbb14e8bb86b587ed79ba, type: 3}
+      Value: 0
+    - Key: {fileID: 5568918971465860070, guid: 7407e78b628c4354789e612b3c75c76e, type: 3}
+      Value: 0
+    - Key: {fileID: 7632275421829170444, guid: 3652065ad03d13a4fb705db51f9432a1, type: 3}
+      Value: 0
+    - Key: {fileID: -8750358254235268279, guid: 6c4e8f14ce31fc641a8670730ef8c29e, type: 3}
+      Value: 0
+    - Key: {fileID: 75723432986380040, guid: 0e3069b94ef44eb458e91053721e125f, type: 3}
+      Value: 0
+    - Key: {fileID: -4401780272141464138, guid: e63403fe5c963e44db4f8a3c1416d8b9, type: 3}
+      Value: 0
+    - Key: {fileID: -5660508130040408958, guid: 453bd65094a6a0c4d9f536eae7292e83, type: 3}
+      Value: 0
+    - Key: {fileID: -1733608800325866946, guid: 30a6939db3e86ec47981a9bd3fd03f33, type: 3}
+      Value: 0
+    - Key: {fileID: 4264813213005836037, guid: d5cdee215333acf4daafce3c58909674, type: 3}
+      Value: 0
+    - Key: {fileID: -6046647019358122158, guid: 2f138d65c2e862c43afe98ff5638ca10, type: 3}
+      Value: 0
+    - Key: {fileID: -7242824892672758338, guid: 950565809b586ee4d90bda274482e1c5, type: 3}
+      Value: 0
+    - Key: {fileID: -6388133745993707432, guid: e5f335594c6e4b749963bbd901afbe3b, type: 3}
+      Value: 0
